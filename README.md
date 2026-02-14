@@ -45,6 +45,7 @@
   </li>
 </ul>
 
+<br>
 
 <!-- Stats -->
 <h2>🏅 Stats</h2>
