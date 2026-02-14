@@ -39,9 +39,6 @@
     🏅 <b>2024 SW·AI 융합해커톤 특별상</b><br>
     <sub>울산광역시 교육청</sub>
  </li>
-  <li>
-    Google Analytics Certification
-  </li>
 </ul>
 
 <br>
@@ -61,7 +58,11 @@
     AI 코딩활용능력 3급 <br>
     <sub>한국직업능력연구원 / ㈜럭스로보</sub>
   </li>
+  <li>
+    Google Analytics Certification
+  </li>
 </ul>
+
 
 <br>
 
