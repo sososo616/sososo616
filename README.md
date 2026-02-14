@@ -39,5 +39,5 @@
 <!-- Stats -->
 <h2>🏅 Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sososo616&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://picsum.photos/500/200" />
 </div>
