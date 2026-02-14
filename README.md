@@ -40,8 +40,26 @@
 <ul>
   <li>
     🏅 <b>2024 SW·AI 융합해커톤 특별상</b><br>
-    <sub>주최: 울산광역시 교육청</sub><br>
-    <sub>심리 치료를 주제로 한 인터랙티브 게임 기획 및 구현</sub>
+    <sub>울산광역시 교육청</sub>
+  </li>
+</ul>
+
+<br>
+
+<h2>🚀 Activities</h2>
+<ul>
+  <li>울산정보산업진흥원 디지털새싹 캠프 참가</li>
+  <li>2024 지역현안문제해결 해커톤 대회 참가</li>
+  <li>2024 UNIST STEM Camp 참가</li>
+</ul>
+
+<br>
+
+<h2>📜 Certifications</h2>
+<ul>
+  <li>
+    AI 코딩활용능력 3급 (민간자격증)<br>
+    <sub>발급기관: 한국직업능력연구원 / ㈜럭스로보</sub>
   </li>
 </ul>
 
