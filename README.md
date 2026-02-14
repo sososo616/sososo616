@@ -58,7 +58,7 @@
 <h2>📜 Certifications</h2>
 <ul>
   <li>
-    AI 코딩활용능력 3급 (민간자격증)<br>
+    AI 코딩활용능력 3급 <br>
     <sub>발급기관: 한국직업능력연구원 / ㈜럭스로보</sub>
   </li>
 </ul>
