@@ -22,10 +22,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sososo616&bg_color=180,e5f7ff,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sososo616&layout=compact&bg_color=180,e5f7ff,00000000&title_color=000000&text_color=000000"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sososo616=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
            /> </div> 
     </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sososo616&show_icons=true&theme=radical)    
 
-<br>
