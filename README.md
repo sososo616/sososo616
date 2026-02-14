@@ -26,9 +26,6 @@
   <a href="https://www.instagram.com/616os/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://blog.naver.com/sososo616">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-  </a>
   <a href="mailto:ksy43700706@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
@@ -41,6 +38,9 @@
   <li>
     🏅 <b>2024 SW·AI 융합해커톤 특별상</b><br>
     <sub>울산광역시 교육청</sub>
+ </li>
+  <li>
+    Google Analytics Certification
   </li>
 </ul>
 
