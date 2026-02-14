@@ -36,6 +36,16 @@
 
 <br>
 
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>
+    🏅 <b>2024 SW·AI 융합해커톤 특별상</b><br>
+    <sub>주최: 울산광역시 교육청</sub><br>
+    <sub>심리 치료를 주제로 한 인터랙티브 게임 기획 및 구현</sub>
+  </li>
+</ul>
+
+
 <!-- Stats -->
 <h2>🏅 Stats</h2>
 <div align="center">
