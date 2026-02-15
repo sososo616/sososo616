@@ -23,9 +23,7 @@
 <!-- Contact -->
 <h2>🧑‍💻 Contact me</h2>
 <p>
-  <a href="https://www.instagram.com/616os/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
+
   <a href="mailto:ksy43700706@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
