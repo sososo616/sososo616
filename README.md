@@ -36,12 +36,17 @@
 <h2>🏆 Achievements</h2>
 <ul>
   <li>
+    🏅 <b>2025 고교교육 기여대학 지원사업 고교-대학 연계 학교밖교육 해커톤 대상</b><br>
+    <sub>울산대학교 / SW중심대학사업단</sub>
+  </li>
+  <br>
+  <li>
     🏅 <b>2024 SW·AI 융합해커톤 특별상</b><br>
     <sub>울산광역시 교육청</sub>
- </li>
+  </li>
 </ul>
-
 <br>
+
 
 <h2>🚀 Activities</h2>
 <ul>
