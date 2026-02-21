@@ -6,13 +6,16 @@
 <br>
 
 <!-- 소개 -->
-<h2>👋 Hello World</h2>
 <p><b>💻 아직 배울 게 많은 주니어 개발자입니다.</b></p>
 
 <br>
 
+---
+
+<br>
+
 <!-- Tech Stack -->
-<h2>🛠️ Tech Stacks</h2>
+<h3 align="left">Tech stacks</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -21,7 +24,7 @@
 <br>
 
 <!-- Contact -->
-<h2>🧑‍💻 Contact me</h2>
+<h3 align="left">Connect me:</h3>
 <p>
 
   <a href="mailto:ksy43700706@gmail.com">
@@ -31,7 +34,7 @@
 
 <br>
 
-<h2>🏆 Achievements</h2>
+<h3 align="left">Achievements</h3>
 <ul>
   <li>
     🏅 <b>2025 고교교육 기여대학 지원사업 고교-대학 연계 학교밖교육 해커톤 대상</b><br>
@@ -46,7 +49,7 @@
 <br>
 
 
-<h2>🚀 Activities</h2>
+<h3 align="left">Activities</h3>
 <ul>
   <li>2024 울산정보산업진흥원 디지털새싹 캠프 참가</li>
   <li>2024 지역현안문제해결 해커톤 대회 참가</li>
@@ -56,7 +59,7 @@
 
 <br>
 
-<h2>📜 Certifications</h2>
+<h3 align="left">Certifications</h3>
 <ul>
   <li>
     AI 코딩활용능력 3급 <br>
