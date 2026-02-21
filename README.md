@@ -62,18 +62,5 @@
     AI 코딩활용능력 3급 <br>
     <sub>한국직업능력연구원 / ㈜럭스로보</sub>
   </li>
-  <li>
-    Google Analytics Certification
-  </li>
 </ul>
 
-
-<br>
-
-<!-- Stats -->
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sososo616&show_icons=true&theme=radical" />
-    </div>
-</div>
